@@ -1,0 +1,16 @@
+.alt-header{
+    margin-top: 10px;
+    top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #afccdb;;
+}
+
+.alt-header__title{
+    font-size: 32px;
+}
+
+.alt-header_column:last-child i:last-child{
+    margin-left: 20px;
+}
